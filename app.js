@@ -1,7 +1,7 @@
 // grab DOM elements
 
 // set event listeners on each button, do math, and update DO
-import { add, sub, mul, div, temp } from './utilities.js';
+import { add, sub, mul, div, temp } from '/utilities.js';
 
 
 function getNumber(input) {
